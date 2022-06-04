@@ -1,0 +1,2 @@
+# FREESCALE_MQX_4_2_TEMPLATE
+MQX 4.2 Template
